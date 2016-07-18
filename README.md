@@ -1,5 +1,5 @@
 # Running-MonkeyLearn
-Files for working with MonkeyLearn.com
+Files for working with MonkeyLearn.com's sentiment machine learning
 
 This script is for parsing the JSON results MonkeyLearn spits back. 
 Fill a csv file with posts to be labeled for sentiment, one post per row. You will get a 
